@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arnav.nagpurkar@gmail.com**
 
-- ⚡ Fun fact: **I'm just 13 years old!**
+- ⚡ Fun fact: **I'm just 13 years old! (Studying in Grade 8th)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
