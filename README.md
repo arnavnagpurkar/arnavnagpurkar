@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavnagpurkar" alt="arnavnagpurkar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/arnavnagpurkar](https://www.github.com/arnavnagpurkar)
-
+  
+- 👉 Projects sorted according to language used, frameworks, etc : [https://github.com/arnavnagpurkar?tab=stars](https://github.com/arnavnagpurkar?tab=stars)
+  
 - 💬 Ask me about **Python, C, Frontend, Flask**
 
 - 📫 Contact me via mail: **arnav.nagpurkar@gmail.com**
