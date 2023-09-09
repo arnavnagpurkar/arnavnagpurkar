@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/arnavnagpurkar](https://www.github.com/arnavnagpurkar)
 
-- 💬 Ask me about **Python, C, Frontend**
+- 💬 Ask me about **Python, C, Frontend, Flask**
 
 - 📫 How to reach me **arnav.nagpurkar@gmail.com**
 
