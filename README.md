@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, C, Frontend, Flask**
 
-- 📫 How to reach me **arnav.nagpurkar@gmail.com**
+- 📫 Contact me via mail: **arnav.nagpurkar@gmail.com**
 
 - ⚡ Fun fact: **I'm just 13 years old! (Studying in Grade 8th)**
 
