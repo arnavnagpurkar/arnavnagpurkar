@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I'm just 13 years old! (in Grade 8th)**
 
-- ⭐ Currently Working on - **Flask Project - Pushups Logger** (Repo available on github)
+- ⭐ Currently Working on - **Flask Project - Pushups Logger** (Souce code [here](https://github.com/arnavnagpurkar/Pushups-logger))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
