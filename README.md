@@ -17,7 +17,7 @@
 
 - ⭐ Currently Working on - **Flask Project - Pushups Logger** (Souce code [here](https://github.com/arnavnagpurkar/Pushups-logger))
 
-- ✅ Dev.to - (https://dev.to/arnavnagpurkar)[https://dev.to/arnavnagpurkar]
+- ✅ Dev.to - [https://dev.to/arnavnagpurkar](https://dev.to/arnavnagpurkar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
