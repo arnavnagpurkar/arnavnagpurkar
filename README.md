@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Nagpurkar</h1>
 <h3 align="center">A passionate self-taught Programmer from Pune, Maharshtra, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavnagpurkar" alt="arnavnagpurkar" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.github.com/arnavnagpurkar](https://www.github.com/arnavnagpurkar)
   
 - 👉 Projects sorted according to language used, frameworks, etc : [https://github.com/arnavnagpurkar?tab=stars](https://github.com/arnavnagpurkar?tab=stars)
