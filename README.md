@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnav Nagpurkar</h1>
 <h3 align="center">A passionate Programmer from Pune, Maharshtra, India</h3>
 
-- 🔭 I’m currently working on [Cricket Game](https://github.com/arnavnagpurkar/cricket-game)
-
+- 🔭 I’m currently working on some AI tools
+  
 - 👨‍💻 All of my projects are available at [https://www.github.com/arnavnagpurkar](https://www.github.com/arnavnagpurkar)
 
 - 💬 Ask me about **Python, C, Web-dev**
