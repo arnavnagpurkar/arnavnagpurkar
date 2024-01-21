@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnav Nagpurkar</h1>
 <h3 align="center">A passionate Programmer from Pune, Maharshtra, India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavnagpurkar&label=Profile%20views&color=0e75b6&style=flat" alt="arnavnagpurkar" /> </p>
+
 - 🔭 I’m currently working on some AI tools
   
 - 👨‍💻 All of my projects are available at [https://www.github.com/arnavnagpurkar](https://www.github.com/arnavnagpurkar)
