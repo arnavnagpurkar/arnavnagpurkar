@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavnagpurkar&label=Profile%20views&color=0e75b6&style=flat" alt="arnavnagpurkar" /> </p>
 
-- 🔭 I’m currently learning Advanced React
+- 🔭 I’m currently learning **Next.js**
   
 - 👨‍💻 All of my projects are available at [https://www.github.com/arnavnagpurkar](https://www.github.com/arnavnagpurkar)
 
