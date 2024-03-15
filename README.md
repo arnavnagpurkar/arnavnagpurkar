@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavnagpurkar&label=Profile%20views&color=0e75b6&style=flat" alt="arnavnagpurkar" /> </p>
 
-- 💼 - I'm Currently Working on [ImageSwap](https://github.com/arnavnagpurkar/ImageSwap/)
+- 💼 - I'm Currently Working on Next.js
 
 - 🔭 I’m currently making projects with **Next.js** and soon going to start with **Data Structures and Algorithms (DSA)**
   
